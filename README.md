@@ -15,6 +15,6 @@ but also serves as a tool for VIT management to detect course clashes and
 allocate seats efficiently, thereby enhancing the overall academic experience
 for students and faculty.
 
-##Keywords
+## Keywords
 Course Scheduling, Backtracking Algorithm, Fully Flexible Credit System
 (FFCS), Optimization, Constraint Satisfaction, University Timetable
